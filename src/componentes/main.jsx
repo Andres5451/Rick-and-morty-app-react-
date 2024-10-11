@@ -6,7 +6,7 @@ export default function Main() {
         <>
             <Box sx={{ textAlign: 'center', mt: 4 }}>
                 <Typography variant="h3" component="h1" gutterBottom>
-                    Página principal
+                    APP DE RICK Y MORTY 
                 </Typography>
                 <Box sx={{ mt: 4 }}>
                     <img
